@@ -78,10 +78,10 @@
                             <span class="text-success inline">ivia</span>
                             <p class="m-0">Carreras: Ing de Sistemas, Ing en ciencias de la computacion</p>
                             <p class="m-0">Exmen de Auxiliatura 2020</p>
-                            <span class="m-0">Postulante:</span>
-                            <span>CU:</span><br>
-                            <span class="m-0">Usuario:</span>
-                            <span>Nivel:</span>
+                            <span class="m-0">Postulante: Torres Vargar Carlos Marcelo</span>
+                            <span>CU:111-74</span><br>
+                            <span class="m-0">Usuario:<?php echo isset($_SESSION['usuario'])?$_SESSION['usuario']:"" ?></span>
+                            <span>Nivel:<?php echo isset($_SESSION['nivel'])?$_SESSION['nivel']:"" ?></span>
                         </div>
                         <div class="col-12 col-sm-3">
                             <img src="./images/tecnologia.png" alt="">
