@@ -1,0 +1,58 @@
+.cuadrado1{
+    border: solid black 1px;
+    height: 70px;
+    width: max-content;
+    margin: auto;
+    background: whitesmoke;
+    padding: 15px;
+}
+.d-inline{
+    display: inline-block;
+}
+.cuadrado2{
+    border: solid black 1px;
+    height: 70px;
+    width: auto;
+    margin: auto;
+    background: whitesmoke;
+
+}
+.cuad{
+    width: 35px;
+    height: 35px;
+}
+
+/****login**/
+.cuadrado{
+    text-align: center;
+    border: solid black 1px;
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    background-color:aqua ;
+}
+#correo-au, #password-au, #ingresar, #nombre, #apellido, #correo-reg, #password-reg, #registrar{
+    padding: 5px;
+    margin: 14px;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+table{
+    background: whitesmoke;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.bg{
+    background: whitesmoke;
+    width: 337px;
+    padding: 14px;
+    margin: 15px;
+}
+.mg{
+    margin: 25px;
+}
